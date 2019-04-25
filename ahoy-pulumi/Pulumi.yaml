@@ -1,0 +1,3 @@
+name: ahoy-pulumi
+runtime: nodejs
+description: A simple AWS serverless JavaScript Pulumi program

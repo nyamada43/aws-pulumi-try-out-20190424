@@ -1,0 +1,5 @@
+config:
+  aws-js-sqs-slack:slackChannel: '#general'
+  aws-js-sqs-slack:slackToken:
+    secure: AAABALcEY00rL1b7do7jvvgr/9FvMt0lrUG43F+MdGVtrPnMGJwIHYON1BLhymil7QfbcNoAHnLM1BorGR2FM/TE4e3gq8TDUeQ=
+  aws:region: ap-northeast-1
